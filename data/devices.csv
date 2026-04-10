@@ -1,0 +1,5 @@
+name,room_id,device_type,status
+Living Room Light,1,light,off
+Kitchen Thermostat,2,thermostat,on
+Bedroom Fan,3,fan,off
+Kitchen Light,2,light,off
